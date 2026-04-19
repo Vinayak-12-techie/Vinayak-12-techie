@@ -3,7 +3,7 @@
 # K. Vinayak
 ### Java Backend Engineer · Spring Boot · Microservices · Distributed Systems
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vinayak55/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/vinayak55/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vinayak.jobs6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Vinayak-12-techie)
 
